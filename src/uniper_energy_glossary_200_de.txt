@@ -1,0 +1,200 @@
+Elektrizitätsmarkt
+Strommarkt
+Großhandelsstrompreise
+Endkundenstrompreise
+Spotmarkt
+Tagesvorausmarkt
+Tagesmarkt
+Regelenergiemarkt
+Kapazitätsmarkt
+Forward-Markt
+Futures-Markt
+Auktionsabrechnungspreis
+Marktliquidität
+Preisfindung
+Preisvolatilität
+Preisobergrenze
+Preisuntergrenze
+Preisdifferenz
+Preissignal
+Merit-Order
+Spitzenbedarf
+Grundlastbedarf
+Lastprofil
+Lastprognose
+Nachfragesteuerung
+Lastabwurf
+Netzengpässe
+Netzstabilität
+Netzanschluss
+Netzintegration
+Netzausbau
+Übertragungsnetz
+Verteilnetz
+Verbundkapazität
+Grenzüberschreitende Flüsse
+Redispatch-Maßnahmen
+Engpassmanagement
+Nebenleistungen
+Frequenzregelung
+Frequenzhaltungsreserve
+Spannungsregelung
+Blindleistung
+Schwarzstartfähigkeit
+Systemadäquanz
+Reservemarge
+Dispatch-Optimierung
+Anlagenverfügbarkeit
+Wirtschaftlicher Einsatz
+Einspeisungsbeschränkungsrisiko
+Einspeisungsbeschränkung für erneuerbare Energien
+Ausfallmanagement
+Geplante Wartung
+Ungeplanter Ausfall
+Zwangsausfallrate
+Verfügbarkeitsfaktor
+Kapazitätsfaktor
+Rampenrate
+Mindestlast
+Anlaufzeit
+Abschaltzeit
+Effizienzsteigerung
+Thermischer Wirkungsgrad
+Wärmefaktor
+Kraft-Wärme-Kopplung
+Fernwärme
+Fernkälte
+Stromabnahmevertrag
+Langfristiger Vertrag
+Differenzvertrag
+Absicherungsstrategie
+Volumenrisiko
+Formrisiko
+Profilrisiko
+Unbilanzkosten
+Ausgleichsenergie
+Unbilanzabrechnung
+Portfoliooptimierung
+Risikoprämie
+Marktkopplung
+Flussbasierte Kopplung
+Netzverluste
+Messpunkt
+Einführung intelligenter Zähler
+Zeitabhängiger Tarif
+Dynamische Preisgestaltung
+Einzelhandelswettbewerb
+Anbieterwechsel
+Erneuerbare Energieerzeugung
+Windenergieerzeugung
+Onshore-Windpark
+Offshore-Windpark
+Solarenergieerzeugung
+Solarkraftwerk
+Solarpark
+Biomasseanlage
+Laufwasserkraftwerk
+Pumpspeicherkraftwerk
+Wasserkraftwerk
+Geothermiekraftwerk
+Kombikraftwerk
+Offene Gasturbine
+Gaskraftwerk
+Kohlekraftwerk
+Kernkraftwerk
+Braunkohleförderung
+Steinkohleimporte
+Brennstoffwechsel
+Brennstoffbeschaffung
+Brennstoffvorrat
+Kohlenstoffintensität
+Emissionshandel
+Emissionsminderung
+Kohlenstoffabscheidung
+Kohlenstoffspeicherung
+Grüner Wasserstoff
+Blauer Wasserstoff
+Elektrolyseur-Projekt
+Wasserstoffpipeline
+Biomethan-Einspeisung
+Gasspeicherbefüllung
+Speicherentnahme
+Speichereinspeisung
+Speicherkapazität
+Flüssigerdgas-Terminal
+Schwimmende Speichereinheit
+Wiedervergasungskapazität
+Importkapazität
+Pipeline-Wartung
+Pipeline-Unterbrechung
+Interkonnektor-Ausfall
+Systemspitze
+Knappheitspreisbildung
+Knappheitssituation
+Marktenge
+Erzeugungsüberschuss
+Abregelungsrisiko
+Must-Run-Erzeugung
+Residuallast
+Verschiebung der Merit-Order
+Negative Preise
+Positive Preise
+Angebotsknappheit
+Nachfragerückgang
+Wetterabhängigkeit
+Temperatureffekte
+Heizbedarf
+Kühlbedarf
+Zuflüsse in Wasserkraft
+Windprognose
+Solarprognose
+Erneuerbarer Prognosefehler
+Prognoseunsicherheit
+Marktstimmung
+Eindeckungen
+Gewinnmitnahmen
+Short-Eindeckungen
+Langfristige Liquidation
+Offenes Interesse
+Handelsvolumen
+Geld-Brief-Spanne
+Orderbuch-Tiefe
+Kontraktwechsel
+Kalenderaufschlag
+Zeitspanne
+Spark-Spread
+Dark-Spread
+Clean-Spark-Spread
+Clean-Dark-Spread
+Peak-Last-Produkt
+Grundlast-Produkt
+Quartalsprodukt
+Jahresprodukt
+Monatsprodukt
+Regelenergiekosten
+Profilkosten
+Engpasskosten
+Netzentgelte
+Netzgebühren
+Erneuerbarenergien-Zuschlag
+Großhandelsbeschaffung
+Beschaffungsstrategie
+Kundenportfolio
+Industriekunde
+Gewerbekunde
+Privatkunde
+Vertragsvolumen
+Liefervertrag
+Take-or-Pay-Klausel
+Höhere-Gewalt-Klausel
+Indexierungsformel
+Preiseskalation
+Mengenflexibilität
+Nominierungsprozess
+Fahrplanpflicht
+Bilanzkreis
+Bilanzkreisbewirtschaftung
+Messdatenmanagement
+Daten­transparenz
+Marktkommunikation
+Regulatorischer Rahmen

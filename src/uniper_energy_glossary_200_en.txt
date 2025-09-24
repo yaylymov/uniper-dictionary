@@ -1,0 +1,200 @@
+electricity market
+power market
+wholesale power prices
+retail electricity prices
+spot market
+day ahead market
+intraday market
+balancing market
+capacity market
+forward market
+futures market
+auction clearing price
+market liquidity
+price discovery
+price volatility
+price cap
+price floor
+price spread
+price signal
+merit order
+peak demand
+baseload demand
+load profile
+load forecasting
+demand response
+load shedding
+grid congestion
+grid stability
+grid connection
+grid integration
+grid expansion
+transmission network
+distribution network
+interconnector capacity
+cross border flows
+redispatch measures
+congestion management
+ancillary services
+frequency control
+frequency containment reserve
+voltage control
+reactive power
+black start capability
+system adequacy
+reserve margin
+dispatch optimization
+unit commitment
+economic dispatch
+curtailment risk
+renewable curtailment
+outage management
+planned maintenance
+unplanned outage
+forced outage rate
+availability factor
+capacity factor
+ramp rate
+minimum load
+start up time
+shutdown time
+efficiency improvement
+thermal efficiency
+heat rate
+combined heat and power
+district heating
+district cooling
+power purchase agreement
+long term contract
+contract for difference
+hedging strategy
+volume risk
+shape risk
+profile risk
+imbalance cost
+balancing energy
+imbalance settlement
+portfolio optimization
+risk premium
+market coupling
+flow based coupling
+grid losses
+metering point
+smart meter rollout
+time of use tariff
+dynamic pricing
+retail competition
+supplier switching
+renewable generation
+wind generation
+onshore wind farm
+offshore wind farm
+solar generation
+solar power plant
+solar park
+biomass plant
+run of river plant
+pumped storage plant
+hydropower station
+geothermal plant
+combined cycle gas turbine
+open cycle gas turbine
+gas fired plant
+coal fired plant
+nuclear power plant
+lignite production
+hard coal imports
+fuel switch
+fuel procurement
+fuel inventory
+carbon intensity
+emissions trading
+emission reduction
+carbon capture
+carbon storage
+green hydrogen
+blue hydrogen
+electrolyser project
+hydrogen pipeline
+biomethane injection
+gas storage filling
+storage withdrawal
+storage injection
+storage capacity
+liquefied natural gas terminal
+floating storage unit
+regasification capacity
+import capacity
+pipeline maintenance
+pipeline interruption
+interconnector outage
+system peak
+scarcity pricing
+scarcity conditions
+market tightness
+surplus generation
+curtailment risk
+must run generation
+residual load
+merit order shift
+negative prices
+positive prices
+supply shortage
+demand destruction
+weather sensitivity
+temperature effects
+heating demand
+cooling demand
+hydro inflows
+wind forecast
+solar forecast
+renewable forecast error
+forecast uncertainty
+market sentiment
+position covering
+profit taking
+short covering
+long liquidation
+open interest
+trading volume
+bid ask spread
+order book depth
+contract rollover
+calendar spread
+time spread
+spark spread
+dark spread
+clean spark spread
+clean dark spread
+peak load product
+baseload product
+quarterly product
+year ahead product
+month ahead product
+balancing costs
+profile costs
+congestion costs
+network charges
+grid fees
+renewable surcharge
+wholesale procurement
+sourcing strategy
+customer portfolio
+industrial customer
+commercial customer
+residential customer
+contracted volume
+supply contract
+take or pay clause
+force majeure clause
+indexation formula
+price escalation
+volume flexibility
+nomination process
+scheduling obligation
+balancing group
+portfolio balancing
+meter data management
+data transparency
+market communication
+regulatory framework

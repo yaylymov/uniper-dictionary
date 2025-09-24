@@ -1,0 +1,100 @@
+Spotpreis
+Terminkurve
+Residuallast
+Windeinspeisung
+bullischer Ausblick
+bärischer Ausblick
+CO2-Zertifikat
+Auktionsvolumen
+technischer Widerstand
+Unterstützungsniveau
+LNG-Versorgung
+Gasverstromung
+Kohlekraftwerk
+Erneuerbare Erzeugung
+Day-Ahead-Markt
+Grundlast
+Spitzenlast
+Speichereinspeisung
+Speicherausspeisung
+Wartungsstillstand
+norwegische Nominierungen
+saisonale Norm
+Stromforwards
+Rohstoffpreise
+Risikoprämie
+bärische Stimmung
+bullisches Momentum
+Angebots-Nachfrage-Gleichgewicht
+CO2-Markt
+EUA Dez-25
+Clean-Dark-Spread
+Clean-Spark-Spread
+technische Korrektur
+Volatilität
+Marktstimmung
+physischer Markt
+Finanzmarkt
+Energiekomplex
+Gasmarkt
+Kohlemarkt
+Ölmarkt
+Brent Frontmonat
+OPEC-Produktion
+Sanktionen
+Zollpaket
+Handelskonflikt
+Speicherkapazität
+Pipelineflüsse
+Auktionskalender
+Investmentfonds
+Netto-Long-Position
+Netto-Short-Position
+bullischer Trend
+bärischer Trend
+Angebotssorgen
+Nachfrageausblick
+Wetterprognose
+Windstromerzeugung
+Solareinspeisung
+PV-Kapazität
+technische Unterstützung
+Widerstandsniveau
+Marktkorrektur
+Preisrallye
+Gewinnmitnahmen
+Marktkonsolidierung
+Kurvenpreise
+Frontmonat
+hinteres Ende der Kurve
+physische Lieferung
+Handelsvolumen
+Marktliquidität
+Preisvolatilität
+Heizbedarf
+Kühlbedarf
+Industrielle Nachfrage
+Speicherziel
+Gasspeicher
+LNG-Terminal
+ungeplanter Ausfall
+geplante Wartung
+Lieferunterbrechung
+Rezessionsrisiko
+wirtschaftlicher Ausblick
+bullische Treiber
+bärische Treiber
+technische Indikatoren
+gleitender Durchschnitt
+Bollinger-Band
+RSI
+MACD
+Marktprämie
+Preisobergrenze
+Lieferkette
+Importzölle
+Exportbeschränkungen
+Marktfundamentaldaten
+Angebotsseite
+Nachfrageseite
+Marktteilnehmer
